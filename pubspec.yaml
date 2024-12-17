@@ -1,0 +1,76 @@
+name: pawsguard
+description: A Flutter project for pet safety - PawsGuard
+version: 1.0.0+1
+
+environment:
+  sdk: "^3.5.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.5
+  
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/back_arrow.png
+    - assets/images/email_icon.png
+    - assets/images/lock_icon.png
+    - assets/images/google_icon.png
+    - assets/images/background_shapes.png
+    - assets/images/dog_image.png
+    - assets/images/heart_icon.png
+    - assets/images/user_icon.png
+    - assets/images/congratulation_image.png
+    - assets/images/pet_button.png
+    - assets/images/profile_frame.png
+    - assets/images/cat_white.png
+    - assets/images/cat_black.png
+    - assets/images/dog_white.png
+    - assets/images/dog_black.png
+    - assets/images/labrador_retriever.png
+    - assets/images/golden_retriever.png
+    - assets/images/german_shepherd.png
+    - assets/images/french_bulldog.png
+    - assets/images/bulldog.png
+    - assets/images/poodle_kanis.png
+    - assets/images/beagle.png
+    - assets/images/rottweiler.png
+    - assets/images/yorkshire_terrier_yorkie.png
+    - assets/images/dachshund_sosis_kopek.png
+    - assets/images/boxer.png
+    - assets/images/siberian_husky.png
+    - assets/images/shih_tzu.png
+    - assets/images/border_collie.png
+    - assets/images/australian_shepherd.png
+    - assets/images/pembroke_welsh_corgi.png
+    - assets/images/great_dane_danua.png
+    - assets/images/chihuahua.png
+    - assets/images/pomeranian.png
+    - assets/images/melez.png
+    - assets/images/british_shorthair.png
+    - assets/images/persian_iran_kedisi.png
+    - assets/images/maine_coon.png
+    - assets/images/siamese_siyam_kedisi.png
+    - assets/images/ragdoll.png
+    - assets/images/bengal.png
+    - assets/images/russian_blue.png
+    - assets/images/scottish_fold.png
+    - assets/images/sphynx.png
+    - assets/images/birman.png
+    - assets/images/devon_rex.png
+    - assets/images/oriental_shorthair.png
+    - assets/images/turkish_angora_ankara_kedisi.png
+    - assets/images/norwegian_forest_cat.png
+    - assets/images/american_shorthair.png
+    - assets/images/burmese_burma_kedisi.png
+    - assets/images/cornish_rex.png
+    - assets/images/chartreux.png
+    - assets/images/himalayan.png
+    - assets/images/tekir.png
